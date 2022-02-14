@@ -1,0 +1,24 @@
+{
+  "name": "@sun/cli",
+  "version": "0.0.1",
+  "description": "前端CLI程序",
+  "main": "./bin/index.js",
+  "bin": {
+    "sun": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "jianfengtheboy",
+    "email": "jianfengtheboy@163.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "concurrently": "^6.4.0",
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
