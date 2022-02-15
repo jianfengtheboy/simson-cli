@@ -1,6 +1,6 @@
 {
   "name": "@sun/cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "前端CLI程序",
   "main": "./bin/index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jianfengtheboy/sun-cli.git"
   },
   "author": {
     "name": "jianfengtheboy",
@@ -17,7 +21,6 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "commander": "^8.3.0",
-    "concurrently": "^6.4.0",
     "inquirer": "^8.2.0",
     "shelljs": "^0.8.4"
   }

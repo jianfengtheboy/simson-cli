@@ -1,9 +1,9 @@
 {
   "templateGits": [
     {
-      "name": "",
-      "type": "",
-      "url": ""
+      "name": "vue2.0移动端项目模版",
+      "type": "vue-app-ui",
+      "url": "https://github.com/jianfengtheboy/vue-app-ui.git"
     }
   ]
 }

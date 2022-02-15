@@ -40,7 +40,7 @@ const addTemplateQuestion = () => {
     {
       name: 'type',
       type: 'input',
-      message: '请输入类型（如：vueproject）：'
+      message: '请输入类型（如：vue-project）：'
     },
     {
       name: 'url',
