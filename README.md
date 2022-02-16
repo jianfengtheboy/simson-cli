@@ -1,17 +1,17 @@
-# @sun/cli
+# simson-cli
 sun构建CLI，提供项目模版快速创建移动端、管理系统等项目
 
 ### 安装方法
 ```shell
-  npm install @sun/cli -g
+  npm install simson-cli -g
 ```
 
 ### 使用方法
 ```shell
   // 创建项目
-  sun create
+  simson create
   // 模版管理
-  sun template
+  simson template
 ```
 
 ### 项目
@@ -26,11 +26,11 @@ sun构建CLI，提供项目模版快速创建移动端、管理系统等项目
 * -ls 列出所有模版
 
 ```
-  sun template -ls
+  simson template -ls
 ```
 
 * -add 增加模版
 
 ```
-  sun template -add
+  simson template -add
 ```

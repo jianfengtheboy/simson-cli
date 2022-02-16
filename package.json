@@ -1,10 +1,10 @@
 {
-  "name": "@sun/cli",
-  "version": "0.1.0",
+  "name": "simson-cli",
+  "version": "0.1.2",
   "description": "前端CLI程序",
   "main": "./bin/index.js",
   "bin": {
-    "sun": "bin/index.js"
+    "simson": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,9 +19,9 @@
   },
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.0",
-    "commander": "^8.3.0",
-    "inquirer": "^8.2.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3",
     "shelljs": "^0.8.4"
   }
 }
