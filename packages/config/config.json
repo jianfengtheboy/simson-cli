@@ -2,8 +2,15 @@
   "templateGits": [
     {
       "name": "vue2.0移动端项目模版",
-      "type": "vue-app-ui",
-      "url": "https://github.com/jianfengtheboy/vue-app-ui.git"
+      "type": "vue-app-ui-v1",
+      "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
+      "branch": "master"
+    },
+    {
+      "name": "vue3.0移动端项目模版",
+      "type": "vue-app-ui-v2",
+      "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
+      "branch": "v2"
     }
   ]
 }

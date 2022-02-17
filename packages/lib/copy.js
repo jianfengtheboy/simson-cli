@@ -12,7 +12,8 @@ const copyTemplate = (target, type, name) => {
     error(`未找到${type}相关记录`)
     process.exit(1)
   }
-  const command = `git clone ${option.url} ${target}`
+  // 未配置branch时，默认clone master分支
+  const command = `git clone -b ${option.branch || 'master' } ${option.url} ${target}`
 
   shell.exec(command)
 
