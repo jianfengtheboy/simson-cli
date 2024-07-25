@@ -1,16 +1,22 @@
 {
   "templateGits": [
     {
-      "name": "vue2.0移动端项目模版",
-      "type": "vue-app-ui-v1",
+      "name": "vue2-Pro移动端项目模版",
+      "type": "vue2-Pro",
       "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
-      "branch": "master"
+      "branch": "vue2-Pro"
     },
     {
-      "name": "vue3.0移动端项目模版",
-      "type": "vue-app-ui-v2",
+      "name": "vue3-Pro移动端项目模版",
+      "type": "vue3-Pro",
       "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
-      "branch": "v2"
+      "branch": "vue3-Pro"
+    },
+    {
+      "name": "vue3-Ultra移动端项目模版",
+      "type": "vue3-Ultra",
+      "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
+      "branch": "vue3-Ultra"
     }
   ]
 }
