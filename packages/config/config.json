@@ -17,6 +17,39 @@
       "type": "vue3-Ultra",
       "url": "https://github.com/jianfengtheboy/vue-app-ui.git",
       "branch": "vue3-Ultra"
+    },
+
+    {
+      "name": "element-plus vue3后台管理项目模版",
+      "type": "elementplus-vue3-Pro",
+      "url": "https://github.com/jianfengtheboy/web-admin-ui.git",
+      "branch": "elementplus-vue3-Pro"
+    },
+    {
+      "name": "arco-design vue3后台管理项目模版",
+      "type": "arco-vue3-Pro",
+      "url": "https://github.com/jianfengtheboy/web-admin-ui.git",
+      "branch": "arco-vue3-Pro"
+    },
+    {
+      "name": "electron vue3项目模版",
+      "type": "electron-vue3-Pro",
+      "url": "https://github.com/jianfengtheboy/web-admin-ui.git",
+      "branch": "electron-vue3-Pro"
+    },
+
+    {
+      "name": "taro3微信小程序项目模版",
+      "type": "taro-Pro",
+      "url": "https://github.com/jianfengtheboy/weapp-app-ui.git",
+      "branch": "taro-Pro"
+    },
+
+    {
+      "name": "nuxt3项目模版",
+      "type": "nuxt3-Pro",
+      "url": "https://github.com/jianfengtheboy/ssr-app-ui.git",
+      "branch": "nuxt3-Pro"
     }
   ]
 }
